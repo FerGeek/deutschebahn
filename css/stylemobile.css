@@ -1,0 +1,849 @@
+@media only screen and (min-width:980px) and (max-width:1094px) {
+    
+
+
+    #clockdiv {
+        float: right;
+        width: 100%;
+    }
+    .clock-countdown-inner {
+        width: 100%;
+        padding: 53px 0 0 0;
+    }
+
+    .studium-leftbar {
+        padding: 15px 12px 0 16px;
+        width: 50%;
+    }
+
+        .studium-leftbar p {
+            font-size: 15px;
+        }
+
+    .studium-rightbar {
+        width: 50%;
+    }
+
+    .vorteile-outer h3 {
+        font-size: 191px;
+        padding: 176px 0 0 3% !important;
+        text-align: left;
+    }
+
+    .personliche-block {
+        max-width: 905px;
+        margin: -176px auto 0;
+    }
+
+        .personliche-block button.owl-prev span {
+            right: -30px;
+        }
+
+        .personliche-block button.owl-next span {
+            left: -20px;
+        }
+
+    .dich-txt p {
+        font-size: 14px;
+    }
+
+    .cont {
+        width: 50%;
+    }
+
+    .welcher-outer {
+        height: 383px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:979px) {
+	
+    .welcher-outer {
+        height: 383px;
+    }
+
+    #clockdiv {
+        float: right;
+        width: 100%;
+    }
+
+    .clock-countdown-inner {
+        width: 100%;
+        padding: 53px 0 0 0;
+    }
+
+    .studium-leftbar {
+        padding: 15px 12px 0 16px;
+        width: 50%;
+    }
+
+        .studium-leftbar p {
+            font-size: 15px;
+        }
+
+    .studium-rightbar {
+        width: 50%;
+    }
+
+    .vorteile-outer h3 {
+        font-size: 152px;
+        padding: 176px 0 0 3% !important;
+        text-align: left;
+    }
+
+    .personliche-block {
+        max-width: 675px;
+        margin: -176px auto 0;
+    }
+
+        .personliche-block button.owl-prev span {
+            right: -30px;
+        }
+
+        .personliche-block button.owl-next span {
+            left: -20px;
+        }
+
+    .personliche-detail-right {
+        width: 369px;
+        float: right;
+    }
+
+    .personliche-detail {
+        padding: 70px 47px 70px 28px;
+    }
+
+    .dich-outer {
+        padding: 50px 0 238px 0;
+    }
+
+        .dich-inner ul {
+            margin: 0 0 56px 0;
+            padding: 0;
+        }
+
+    .noch-inner {
+        width: 100%;
+    }
+
+    .dich-inner {
+        padding: 18px 0 0 0;
+    }
+
+    .dich-txt p {
+        font-size: 14px;
+    }
+
+    .fahrdienstleiter-outer {
+        width: 601px;
+        background-color: #fff;
+        position: absolute;
+        left: 121px;
+        bottom: 70px;
+        padding: 71px 123px 80px 99px;
+    }
+
+    .carousel-caption h1 br {
+        display: none;
+    }
+
+    .clock-countdown {
+        min-height: 240px;
+        margin-top: -70px;
+        max-width: 100%;
+        position: relative;
+    }
+
+    .studium-outer {
+        width: 100%;
+        display: inline-block;
+        padding: 41px 0 36px 0;
+    }
+
+        .welcher-outer img {
+            width: 100%;
+            height: 416px;
+        }
+
+    .studium-leftbar h2 {
+        margin-bottom: 12px;
+        font-size: 17px;
+    }
+
+    .studium-leftbar p {
+        font-size: 14px;
+    }
+
+        .studium-leftbar p br {
+            display: none;
+        }
+
+    #clockdiv > div {
+        display: inline-block;
+        margin-right: 8px;
+    }
+
+    .clock-countdown-inner strong {
+        font-size: 20px;
+        margin: 12px 0 0 -45px;
+    }
+
+    .cont {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+	.top-viewer{ max-height:80%;}
+    .tab-content { width: 100% !important; height: 75%;}
+	.top-viewer .mobile-controller{display: block;}
+	.top-viewer .mobile-controller ul{width:100%; height:25px; position:relative; list-style:none;}
+	.top-viewer .mobile-controller ul li{
+		position: relative;
+		float:left;
+		font-size:150%;
+		text-align:center;
+		width:8%;
+		margin:0 1% 0 0;
+		padding:3px;
+		cursor:pointer;
+		}
+	.top-viewer .mobile-controller ul li.active{ background:#932E78; color:#fff; transform:skew(-10deg)}
+	.tab-selector{display:none !important;}
+	.tab-selector{ width:100% !important;}
+	.tab-selector .img{ width:100% !important;}
+	.tab-selector .desc, .tab-selector .desc_r{
+		width:90%;
+		height:50%;
+		z-index:9999;
+		margin: -40% 0 0 5%;
+		background-color:#5E9BA3 !important;
+		} 
+	.tab-selector .desc h4{
+		font-size:130%;
+		}
+	.tab-selector .desc p{
+		width:90%;
+		height:75px;
+		font-size:85%;
+		margin:-2% 0 0 5%;
+		}
+	.tab-selector .desc a{
+		width:90%;
+		font-size:85%;
+		text-align:center;
+		margin: -5% 0 0 0;
+		}
+	.tab-selector .rank{
+		float:right;
+		}
+    .smalltext{
+        font-size: 14px;
+    }
+    #clockdiv div > span {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .clock-countdown-inner strong {
+        font-size: 15px;
+        margin: 0px 0 0 -45px;
+    }
+
+
+    h2 {
+        font-size: 18px;
+    }
+
+    p{
+        font-size: 18px;
+    }
+    .welcher-outer-img {
+        display: block;
+    }
+
+    .welcher-outer {
+        background: none;
+        margin-top: -30px;
+        margin-bottom: 0px;
+    }
+
+    .cont {
+        width: 100%;
+    }
+
+    #clockdiv {
+        float: right;
+        width: 100%;
+    }
+
+    .clock-countdown-inner {
+        width: 100%;
+        padding: 53px 0 0 0;
+    }
+
+    #clockdiv > div {
+        display: inline-block;
+        margin-right: 8px;
+    }
+
+    .navbar {
+        padding: .5rem 0;
+    }
+
+    .h1, h1 {
+        font-size: 1.5rem;
+    }
+
+    .clock-countdown {
+        min-height: 150px;
+        margin-top: -50px;
+        padding-top: 30px;
+        background-position: right top;
+        background-size:initial;
+    }
+
+    #carouselHome.carousel .carousel-caption {
+        top: 0;
+    }
+
+    .clock-countdown-inner {
+        width: 100%;
+        padding: 0;
+    }
+
+    .studium-leftbar {
+        padding: 15px 0 0 15px;
+    }
+
+    .studium-outer {
+        padding: 0;
+        margin-top: 20px;
+    }
+
+    div#nav-tab a {
+        font-size: 18px;
+    }
+
+    .studium-rightbar {
+        padding: 20px 0 25px 15px;
+        margin-bottom: 35px;
+    }
+
+    .personliche-block {
+        max-width: 100%;
+        margin: 0;
+    }
+
+    .personliche-outer {
+        padding-bottom: 0;
+    }
+
+    .personliche-detail {
+        background: none !important;
+        padding: 20px 15px;
+    }
+
+    .personliche-detail-right {
+        width: 100%;
+        padding: 0px 4%;
+    }
+    .personliche-detail-right-mob {
+        width: 60%;
+        float: right;
+        padding: 15px 30px 0px 0px;
+    }
+    .personliche-detail-right-mob h2 {
+        color: #fff;
+    }
+
+    .personliche-detail-left {
+        width: 40%;
+        padding: 15px 10%;
+        min-height: 150px;
+    }
+
+    #carouselDichInner .carousel-item {
+        min-height: 300px;
+    }
+    #carouselDichInner .arrows {
+        top: -70px;
+    }
+        #carouselDichInner .arrows .carousel-control-prev {
+            margin-left: 15px;
+            left:0px;
+        }
+        #carouselDichInner .arrows .carousel-control-next {
+            margin-right: 15px;
+            right: 0px;
+        }
+        #carouselDichInner .arrows .carousel-control-next span {
+            background: url(../img/nav-arrow-right-orange.png) no-repeat;
+
+        }
+            #carouselDichInner .arrows .carousel-control-prev span {
+                background: url(../img/nav-arrow-left-orange.png) no-repeat;
+            }
+
+    .item h3, #carouselVorteile .carousel-item h3 {
+        color: #fff !important;
+    }
+
+    #carouselVorteile .arrows {
+        top: -320px;
+    }
+
+    #carouselVorteile .carousel-item .personliche-detail-left img {
+        width: 100%;
+    }
+
+    #carouselVorteile .arrows .carousel-control-prev,
+    #carouselVorteile .arrows .carousel-control-next {
+        top: 0px;
+        left: 0px;
+        margin-top: 0px;
+    }
+
+
+    #carouselVorteile .arrows .carousel-control-prev{
+        left: 80%;
+    }
+    .item p,
+    #carouselVorteile .carousel-item p {
+        color: #fff !important;
+        min-height: 230px;
+    }
+
+
+    .noch-inner {
+        width: 92%;
+        padding: 30px 20px;
+        top: 320px;
+        background: none;
+        background-color: #fff;
+        margin: 0 4%;
+        position: relative;
+    }
+
+    .dich-outer {
+        padding: 30px 0 25px 0;
+    }
+
+    .noch-outer {
+        background-size: 100% auto !important;
+        padding: 0;
+        min-height: 350px;
+        background: url(../img/noch-bg-mob.jpg) no-repeat top center;
+        margin-bottom: 220px;
+    }
+
+    footer {
+        border-top: 5px solid #932E78;
+        padding-bottom: 20px;
+    }
+
+        footer ul {
+            margin: 0 0 0 15px;
+            padding: 0;
+        }
+
+            footer li a {
+                font-size: 15px;
+                padding: 0 20px 0 0;
+            }
+
+    .welcher-block {
+        width: 94%;
+        position: relative;
+        padding: 30px 22px;
+        margin: 0 25px 95px 25px;
+        bottom: 30px;
+        background: none;
+        background-color: #fff;
+    }
+
+    .vorteile-outer h3 {
+        display: none;
+    }
+
+    .vorteile-outer {
+        padding: 0;
+    }
+
+    .welcher-block h3 {
+        font-size: 18px;
+    }
+
+    .dich-inner li {
+        width: 100%;
+    }
+
+    .dich-pic h4 {
+        left: 29%;
+    }
+
+    .navbar-light .navbar-nav .apply-now {
+        margin-left: 0;
+        margin-bottom: 0;
+        background-size: auto !important;
+        background: none;
+        width: 100%;
+        text-align: left;
+        line-height: 20px;
+        font-size: 16px;
+    }
+
+        .navbar-light .navbar-nav .apply-now .nav-link {
+            font-size: 18px;
+            margin-top: 0;
+            padding-top: 9px;
+            color: #932E78;
+        }
+
+    .navbar-nav li a:hover {
+        background-color: #932E78;
+        color: #fff !important;
+    }
+
+
+    .dich-inner {
+        padding: 0;
+    }
+    .tab-selector-ausbildungsberufe{
+        background-color:#fff;
+    }
+
+    .ausbildungsberufe-outer{
+        background-color:#fff;
+        padding-bottom: 0px !important;
+    }
+    .fahrdienstleiter-outer {
+        width: 94%;
+        left: 0;
+        bottom: 50px;
+        padding: 20px 15px;
+        position: relative;
+        margin: 0 3%;
+        float: left;
+        min-height: 320px;
+    }
+
+        .fahrdienstleiter-outer h3 {
+            margin: 0;
+            padding: 0;
+        }
+
+    #carouselTop10 .carousel-control-prev-icon, #carouselTop5 .carousel-control-prev-icon {
+        background-image: url(../img/slider-arow-left.png);
+    }
+
+    #carouselTop10 .carousel-control-next-icon, #carouselTop5 .carousel-control-next-icon {
+        background-image: url(../img/slider-arow-right.png);
+    }
+
+        #carouselTop5.carousel .carousel-caption {
+            font-size: 100px;
+            z-index: 100;
+            margin-top: -150px;
+            padding-left: 25px;
+        }
+
+    #carouselTop10.carousel .carousel-caption {
+        font-size: 100px;
+        z-index: 100;
+        margin-top: -150px;
+        padding-left: 25px;
+        bottom: 330px;
+        text-align: left !important;
+    }
+
+    #carouselTop10 .arrows,
+    #carouselTop5 .arrows {
+        margin-top: -400px;
+        text-align: right !important;
+        position: absolute;
+        left: 101px;
+        margin-left: 190px;
+    }
+
+    div#counter {
+        text-align: left;
+        font-size: 63px;
+        top: 15%;
+        padding-right: 0;
+        position: absolute;
+        z-index: 99999;
+        opacity: 0.8;
+        padding-left: 20px;
+    }
+
+    .owl-carousel2 .owl-nav {
+        top: 10%;
+        float: right;
+        position: absolute;
+        right: 0;
+    }
+
+    #nav-home {
+        position: relative;
+    }
+
+    div#counter2 {
+        text-align: left;
+        font-size: 63px;
+        top: 15%;
+        padding-right: 0;
+        position: absolute;
+        z-index: 99999;
+        opacity: 0.8;
+        padding-left: 20px;
+    }
+
+    .owl-carousel2 .owl-nav {
+        top: 10%;
+        float: right;
+        position: absolute;
+        right: 0;
+    }
+
+    div#nav-tabContent {
+        position: relative;
+    }
+
+    .owl-carousel3 .owl-nav {
+        top: 10%;
+        float: right;
+        position: absolute;
+        right: 0;
+    }
+
+
+
+    .dich-pic img {
+        display: inline-block !important;
+        width: auto !important;
+    }
+
+    .col-lg-12.col-12.dich-inner.hide-mobile {
+        display: none;
+    }
+
+    .dich-txt h4{
+        font-size: 18px;
+    }
+
+    .owl-carousel.owl-carousel4.owl-theme.owl-loaded.owl-drag .item p {
+        color: #555 !important;
+        padding-bottom: 16px;
+    }
+
+    .dich-pic h4 {
+        color: #fff;
+    }
+
+    .dich-outer {
+        padding: 30px 0 25px 0;
+        background-color: #ebebeb;
+    }
+
+    .show-mobile {
+        display: block !important;
+    }
+
+    .welcher-outer img {
+        width: 100%;
+    }
+
+    .personliche-block {
+        max-width: 100%;
+        margin: 0 auto 0;
+    }
+
+    .personliche-outer {
+        margin-top: 50px;
+        background: url(../img/benifit_background-mob.svg) left top no-repeat;
+        background-size: cover;
+    }
+
+        .personliche-block button.owl-prev span {
+            right: 0;
+        }
+
+        .personliche-block button.owl-next span {
+            left: 0;
+        }
+
+        .personliche-block .owl-nav {
+            bottom: inherit;
+            width: 60px;
+            left: 40%;
+            top: 105px;
+        }
+
+    .col-7.pl-0.cont {
+        margin: 0 0 0 0;
+        width: 100% !important;
+        max-width: 100%;
+    }
+
+    .clock-countdown-inner {
+        width: 100%;
+        float: right;
+        padding: 10px 0 0 0;
+    }
+
+    .clock-countdown-right {
+        min-height: auto;
+        margin-top: -50px;
+        text-align: center;
+    }
+
+    .owl-carousel4 .owl-nav {
+        width: 100%;
+        margin: 0;
+        top: -120px;
+        position: relative;
+        right: 0;
+    }
+
+    .owl-carousel4 button.owl-prev span {
+        background: url(../img/nav-arrow-left-orange.png) no-repeat;
+        width: 28px;
+        color: transparent;
+        height: 26px;
+        display: block;
+    }
+
+    .owl-carousel4 button.owl-next span {
+        background: url(../img/nav-arrow-right-orange.png) no-repeat;
+        width: 28px;
+        color: transparent;
+        height: 26px;
+        display: block;
+    }
+
+    .owl-carousel4 button.owl-prev {
+        left: 1%;
+        position: absolute;
+    }
+
+    .owl-carousel4 button.owl-next {
+        right: 1%;
+        position: absolute;
+    }
+
+    .arow-top {
+        left: 86%;
+    }
+
+    body .blg-mobile {
+        display: block !important;
+        margin-bottom: 10px;
+    }
+
+    img.blg-desktop {
+        display: none !important;
+    }
+
+
+    .navbar-light .navbar-nav .nav-item {
+        background-color: #EBEBEB;
+        border-top: 1px solid #979797;
+        margin-left: -15px;
+        margin-right: -15px;
+        font-size: 18px;
+        margin-top: 0px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-light .navbar-nav .apply-now{
+        width: initial;
+    }
+
+
+    .owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item {
+        -ms-touch-action: auto;
+        touch-action: auto;
+    }
+}
+
+@media screen and (max-width: 479px) {
+
+
+    .smalltext {
+        padding-top: 5px;
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        margin-bottom: 3px;
+    }
+
+    #clockdiv div > span {
+        display: inline-block;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 20px;
+        line-height: 23px;
+    }
+
+    .clock-countdown-inner strong {
+        font-size: 14px;
+        margin: 5px 0 0 -40px;
+    }
+
+    .arow-top {
+        width: 50px;
+        display: inline-block;
+        position: absolute;
+        bottom: 55px;
+        left: 80%;
+    }
+
+    .carousel-caption h1 {
+        font-size: 29px;
+        margin-top: 35px;
+    }
+
+    .carousel-caption {
+        padding-bottom: 0;
+    }
+
+    div#counter {
+        top: 5%;
+    }
+
+    .fahrdienstleiter-outer h3 {
+        margin: 0 0 5px 0;
+        padding: 0;
+        font-size: 20px;
+    }
+
+    .entdecken-btn {
+        margin: 10px 0 0 0;
+    }
+
+    .studium-leftbar h2{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 325px) {
+    div#nav-tab a {
+        font-size: 16px;
+    }
+    .studium-leftbar h2 {
+        font-size: 16px;
+    }
+    #carouselTop10.carousel .carousel-caption {
+        font-size: 80px;
+        bottom: 338px;
+    }
+    p {
+        font-size: 14px;
+    }
+    h2 {
+        font-size: 16px;
+    }
+    #carouselTop10 .arrows, #carouselTop5 .arrows {
+        left: 50px;
+    }
+}

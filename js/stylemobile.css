@@ -1,0 +1,530 @@
+@media only screen and (min-width:980px) and (max-width:1094px)
+{
+#clockdiv {
+    float: right;
+    width: 100%;
+}
+.clock-countdown-inner {
+    width: 100%;
+    padding: 53px 0 0 0;
+}
+	
+.studium-leftbar {
+padding: 15px 12px 0 16px;
+width: 50%;
+}
+.studium-leftbar p
+{
+	font-size:15px;
+}
+.studium-rightbar {
+    width: 50%;
+}
+.vorteile-outer h3 {
+    font-size: 191px;
+    padding: 176px 0 0 3% !important;
+    text-align: left;
+}
+.personliche-block
+{
+	max-width:905px;
+	margin: -176px auto 0;
+}
+.personliche-block button.owl-prev span
+{
+	right:-30px;
+}
+.personliche-block button.owl-next span {
+    left: -20px;
+}
+.dich-txt p {
+    font-size: 14px;
+}
+.cont {
+    width: 50%;
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:979px)
+{
+#clockdiv {
+    float: right;
+    width: 100%;
+}
+.clock-countdown-inner {
+    width: 100%;
+    padding: 53px 0 0 0;
+}	
+.studium-leftbar {
+padding: 15px 12px 0 16px;
+width: 50%;
+}
+.studium-leftbar p
+{
+	font-size:15px;
+}
+.studium-rightbar {
+    width: 50%;
+}
+.vorteile-outer h3 {
+    font-size: 152px;
+    padding: 176px 0 0 3% !important;
+    text-align: left;
+}
+.personliche-block {
+    max-width: 675px;
+    margin: -176px auto 0;
+}
+.personliche-block button.owl-prev span
+{
+	right:-30px;
+}
+.personliche-block button.owl-next span {
+    left: -20px;
+}
+.personliche-detail-right {
+    width: 369px;
+    float: right;
+}
+.personliche-detail {
+    padding: 70px 47px 70px 28px;
+}
+.dich-outer {
+    padding: 50px 0 238px 0;
+}
+.dich-inner ul {
+    margin: 0 0 56px 0;
+    padding: 0;
+}
+.noch-inner {
+    width: 100%;
+}
+.dich-inner {
+    padding: 18px 0 0 0;
+}
+.dich-txt p {
+    font-size: 14px;
+}
+.fahrdienstleiter-outer {
+    width: 601px;
+    background-color: #fff;
+    position: absolute;
+    left: 121px;
+    bottom: 70px;
+    padding: 71px 123px 80px 99px;
+}
+.carousel-caption h1 br
+{
+	display:none;
+}
+.clock-countdown {
+    min-height: 240px;
+    margin-top: -70px;
+    max-width: 100%;
+    position: relative;
+}
+
+.studium-outer {
+    width: 100%;
+    display: inline-block;
+    padding: 41px 0 36px 0;
+}
+.welcher-outer img {
+    width: 100%;
+    height: 416px;
+}
+.studium-leftbar h2 {
+    margin-bottom: 12px;
+    font-size: 17px;
+}
+.studium-leftbar p
+{
+	font-size:14px;
+}
+.studium-leftbar p br
+{
+	display:none;
+}
+#clockdiv > div {
+    display: inline-block;
+    margin-right: 8px;
+}
+.clock-countdown-inner strong {
+    font-size: 20px;
+    margin: 12px 0 0 -45px;
+}
+.cont {
+    width:60%;
+}
+}
+
+@media screen and (max-width: 767px)
+{
+	.cont {
+    width: 100%;
+}
+#clockdiv {
+    float: right;
+    width: 100%;
+}
+.clock-countdown-inner {
+    width: 100%;
+    padding: 53px 0 0 0;
+}		
+#clockdiv > div {
+display: inline-block;
+margin-right: 8px;
+}
+.clock-countdown-inner strong {
+    font-size: 20px;
+    margin: 12px 0 0 -45px;
+}
+.navbar {
+ padding: .5rem 0;
+}
+.h1, h1 {
+ font-size: 1.5rem;
+}
+.clock-countdown {
+ min-height: 150px;
+ margin-top: 0;
+}
+#carouselHome.carousel .carousel-caption {
+ top: 0;
+}
+.clock-countdown-inner {
+ width: 100%;
+ padding: 0;
+}
+.studium-leftbar {
+ padding: 15px 0 0 15px;
+}
+.studium-outer {
+ padding: 0;
+}
+div#nav-tab a {
+ font-size: 11px;
+}
+.studium-rightbar {
+ padding: 20px 0 25px 15px;
+ margin-bottom:35px;
+}
+.personliche-block {
+ max-width: 100%;
+ margin: 0;
+}
+.personliche-outer
+{
+padding-bottom:0;
+}
+.personliche-detail
+{
+ background:none !important;
+ padding:20px 15px;
+}
+.personliche-detail-right {
+ width: 100%;
+}
+.personliche-detail-left {
+ width: 100px;
+}
+.item h3
+{
+ color:#fff !important;
+}
+.item p
+{
+ color:#fff !important;
+}
+.studium-outer h3, p
+{
+ color:#333333 !important;
+}
+
+.noch-inner {
+ width: 92%;
+ padding: 30px 20px;
+ top: 70px;
+ background:none;
+ background-color:#fff;
+ margin:0 4%;
+ position:relative; 
+}
+
+.dich-outer {
+ padding: 30px 0 25px 0;
+}
+.noch-outer {
+background-size:100% auto!important;
+padding:0;
+min-height:320px;
+}
+footer
+{
+ border-top: 5px solid #e67800;
+ padding-bottom:20px;
+}
+footer ul
+{
+ margin:0 0 0 15px;
+ padding:0;
+}
+footer li a {
+ font-size: 15px;
+ padding: 0 20px 0 0;
+}
+
+.welcher-block {
+ width: 94%;
+ position:relative;
+ padding: 15px;
+ margin:0 3%;
+ bottom:22px;
+ background:none;
+ background-color:#fff;
+}
+.vorteile-outer h3 {
+ display: none;
+}
+.vorteile-outer {
+ padding: 0;
+}
+.welcher-block h3 {
+ font-size: 18px;
+}
+.dich-inner li {
+ width: 100%;
+}
+.dich-pic h4 {
+ left: 29%;
+}
+.navbar-light .navbar-nav .apply-now {
+ margin-left:0;
+ margin-bottom: 0;
+ background-size:auto !important;
+ background:none;
+ width:100%;
+ text-align:left;
+ line-height:20px;
+ font-size:16px;
+}
+.navbar-light .navbar-nav .apply-now .nav-link {
+ font-size: 16px;
+ margin-top: 0;
+ padding-top: 9px;
+}
+.navbar-nav li a:hover
+{
+ background-color:#e67800;
+ color:#fff !important;
+}
+.welcher-block p {
+ font-size: 16px;
+ line-height: 24px;
+}
+.dich-inner {
+ padding: 0;
+}
+.fahrdienstleiter-outer {
+    width: 94%;
+    left: 0;
+    bottom: 14px;
+    padding: 20px 15px;
+    position: relative;
+    margin: 0 3%;
+    float: left;
+}
+.fahrdienstleiter-outer h3
+{
+ margin:0;
+ padding:0;
+}
+
+div#counter {
+ text-align: left;
+ font-size: 63px;
+ top: 15%;
+ padding-right: 0;
+ position: absolute;
+ z-index: 99999;
+ opacity: 0.8;
+ padding-left: 20px;
+}
+.owl-carousel2 .owl-nav {
+ top: 10%;
+ float:right;
+ position:absolute;
+ right:0;
+}
+#nav-home {
+ position: relative;
+}
+
+div#counter2 {
+    text-align: left;
+    font-size: 63px;
+    top: 15%;
+    padding-right: 0;
+    position: absolute;
+    z-index: 99999;
+    opacity: 0.8;
+    padding-left: 20px;
+}
+.owl-carousel2 .owl-nav {
+    top: 10%;
+    float: right;
+    position: absolute;
+    right: 0;
+}
+div#nav-tabContent {
+    position: relative;
+}
+
+.owl-carousel3 .owl-nav {
+    top: 10%;
+    float: right;
+    position: absolute;
+    right: 0;
+}
+
+
+
+.dich-pic img {
+    display: inline-block !important;
+    width: auto !important;
+}
+.col-lg-12.col-12.dich-inner.hide-mobile
+{
+	display:none;
+}
+.owl-carousel.owl-carousel4.owl-theme.owl-loaded.owl-drag .item p {
+    color: #555 !important;
+    padding-bottom: 16px;
+}
+.dich-pic h4 {
+    color: #fff;
+}
+.dich-outer {
+    padding: 30px 0 25px 0;
+    background-color: #ebebeb;
+}
+.show-mobile
+{
+	display:block !important;
+}
+.welcher-outer img {
+    width: 100%;
+    height: 164px;
+}
+.personliche-block {
+    max-width: 100%;
+    margin: 0 auto 0;
+	background:url(../img/benifit_background.jpg) center top no-repeat
+}
+.personliche-outer
+{
+	background:#fff none;
+}
+.personliche-block button.owl-prev span {
+    right: 0;
+}
+.personliche-block button.owl-next span {
+    left: 0;
+}
+.personliche-block .owl-nav {
+    bottom: inherit;
+    width: 60px;
+    left: 85%;
+    top: 70px;
+}
+.col-7.pl-0.cont {
+    margin: 0 0 0 0;
+    width: 100%!important;
+    max-width: 100%;
+}
+.clock-countdown-inner {
+    width: 100%;
+    float: right;
+    padding: 10px 0 0 0;
+}
+.clock-countdown-right {
+    min-height: auto;
+    margin-top: -50px;
+    text-align: center;
+}
+.owl-carousel4 .owl-nav {
+   width: 100%;
+    margin: 0;
+    top: 0px;
+    position: relative;
+    right: 0;
+}
+.owl-carousel4 button.owl-prev span {
+    background: url(../img/slider-arow-left-orange.png) no-repeat;
+    width: 28px;
+    color: transparent;
+    height: 26px;
+    display: block;
+}
+.owl-carousel4 button.owl-next span {
+    background: url(../img/slider-arow-right-orange.png) no-repeat;
+    width: 28px;
+    color: transparent;
+    height: 26px;
+    display: block;
+}
+.owl-carousel4 button.owl-prev {
+    left: 1%;
+    position: absolute;
+}
+.owl-carousel4 button.owl-next
+{
+	right: 1%;
+    position: absolute;
+}
+}
+@media screen and (max-width: 479px)
+{
+.smalltext {
+padding-top: 5px;
+font-size: 13px;
+letter-spacing: 0.5px;
+margin-bottom: 3px;
+}
+#clockdiv div > span {
+    display: inline-block;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    line-height: 33px;
+}
+.clock-countdown-inner strong {
+    font-size: 15px;
+    margin: 5px 0 0 -40px;
+}
+.arow-top {
+    width: 50px;
+    display: inline-block;
+    position: absolute;
+    bottom: 16px;
+    left: 59%;
+}
+.carousel-caption h1
+{
+	font-size:20px;
+}
+.carousel-caption {
+    padding-bottom: 0;
+}
+div#counter {
+    top: 5%;
+}
+.fahrdienstleiter-outer h3 {
+    margin: 0 0 5px 0;
+    padding: 0;
+    font-size: 20px;
+}
+.entdecken-btn {
+    margin: 10px 0 0 0;
+}
+}

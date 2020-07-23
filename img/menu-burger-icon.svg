@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="93.1644471%" y1="6.97442729%" x2="4.43568258%" y2="94.0763096%" id="linearGradient-1">
+            <stop stop-color="#066B90" offset="0%"></stop>
+            <stop stop-color="#023C51" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-323.000000, -18.000000)" fill="url(#linearGradient-1)">
+            <g id="HEADER" transform="translate(-38.000000, 14.000000)">
+                <g id="Group-4" transform="translate(361.000000, 4.000000)">
+                    <g id="menu">
+                        <polygon id="Rectangle-2-Copy" points="0 0 23 0 23 3.89257812 0 3.89257812"></polygon>
+                        <polygon id="Rectangle-2-Copy" points="0 9 23 9 23 12.8925781 0 12.8925781"></polygon>
+                        <polygon id="Rectangle-2-Copy" points="0 18 23 18 23 21.8925781 0 21.8925781"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
